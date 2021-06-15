@@ -1,0 +1,68 @@
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+html { overflow-x: hidden; overflow-y: auto;}
+.TableBorder {
+	border: 1px solid #AB9F87;
+	background-color: #FAFAF2;
+}
+.AddressText {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #663300;
+	line-height: 14px;
+}
+body {
+	background-color: #FFFFFF;
+}.BulletText {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #663300;
+	line-height: 24px;
+}
+.BulletTextBold {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #663300;
+	line-height: 24px;
+	font-weight: bold;
+}
+.AddressTextBold {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #663300;
+	line-height: 14px;
+	font-weight: bold;
+}
+.PageText {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #663300;
+	line-height: 15px;
+}
+iframe {
+overflow-x: hidden;
+overflow-y: scroll;
+}.BulletTextItalic {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #663300;
+	line-height: 24px;
+	font-style: italic;
+}
+.PageTextBold {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #663300;
+	line-height: 15px;
+	font-weight: bold;
+}
